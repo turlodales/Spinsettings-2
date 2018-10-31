@@ -15,11 +15,11 @@ My own plan is to make it work from see below
 - [ ] iOS 11
 - [ ] iOS 12
 
-my plain is to make a working verson of SpinSettings for ios 11.0 to 12.0
+my plain is to make a working verson of SpinSettings 64bit only for ios 11.0 to 12.0
 
 why am i putting is on github:
 
-for one resaon only extra backup i have the project on my mac mini, my own freenas server, and github so if any one of them gets cruppted i have backup saved.
+for one resaon only extra backup i have the project's on my Mac Mini 2012 & my MacBook Pro 2012, my own FreeNAS Server, and GitHub so if any one of them gets cruppted i have backup saved.
 
 My own road map
 - [x] step 1 get read me finished 
@@ -27,113 +27,32 @@ My own road map
 - [ ] step 3 get it working on my own devices
 - [ ] step 4 get new devices or ask for bata testers
 - [ ] step 5 fix bugs 
-- [ ] step 6 try and make 64bit only verson
-- [ ] step 7 relise to the public
-- [ ] step 8 update when needed 
+- [ ] step 6 relise to the public
+- [ ] step 7 update when needed 
 
 
 # Not Supported Devices Yet above iOS 10
-| Device | Staus | Device | Staus | Device | Staus | Device | Staus |
+| Device         | Staus     | Device | Staus | Device | Staus | Device | Staus |
 |---------|----------|---------|----------|---------|----------|---------|----------|
-| iPhone 5  | planned   | iPad Mini 1 | planned | iPod Touch 5 | planned |Apple TV4 | planned |
-| iPhone 5C | working   | iPad Mini 2 | planned | iPod Touch 6 | planned |Apple TV 4K | planned |
-| iPhone 5S | planned | iPad Mini 3 | planned |- | - |- | - |
-| iPhone 6  | planned   | iPad Mini 4 | planned |- | - |- | - |
-| iPhone 6+ | planned   | iPad Air    | planned |- | - |- | - |
-| iPhone SE | Planned   |iPad Air 2   | planned |- | - |- | - |
-| iPhone 6S | planned |ipad Pro 12.9 1st gen| Planned |- | - |- | - |
-| iPhone 6S+| planned |ipad Pro 9.7 1st gen   | planned |- | - |- | - |
-| iPhone 7  | planned   |ipad 2017   | planned |- | - |- | - |
-| iPhone 7+ | planned   |iPad Pro (2nd, 12.9)     | planned |- | - |- | - |
-| iPhone 8  | planned   |iPad Pro (2nd, 10.5)   | planned |- | - |- | - |
-| iPhone 8+ | planned   |iPad 2018 |- |- | - |- | - |
-| iPhone X  | planned   |- | -|- | - |- | - |
-| iPhone XS | planned   |- | -|- | - |- | - |
-| iPhone XS Max | planned   |- | -|- | - |- | - |
-| iPhone XR | planned |- | - |- | - |
+| iPhone 5S      | planned   | iPad Mini 2          | planned | iPod Touch 6 | planned |Apple TV4 | planned |
+| iPhone 6       | working   | iPad Mini 3          | planned | -            | -       |Apple TV 4K | planned |
+| iPhone 6+      | planned   | iPad Mini 4          | planned |- | - |- | - |
+| iPhone SE      | planned   | iPad Air             | planned |- | - |- | - |
+| iPhone 6S      | planned   | iPad Air 2           | planned |- | - |- | - |
+| iPhone 6S+     | Planned   |ipad Pro 12.9 1st gen | planned |- | - |- | - |
+| iPhone 7       | planned   |ipad Pro 9.7 1st gen  | Planned |- | - |- | - |
+| iPhone 7+      | planned   | ipad 2017            | planned |- | - |- | - |
+| iPhone 8       | planned   |iPad Pro (2nd, 12.9)  | planned |- | - |- | - |
+| iPhone 8+      | planned   | iPad Pro (2nd, 10.5) | planned |- | - |- | - |
+| iPhone X       | planned   | iPad 2018            | planned |- | - |- | - |
+| iPhone XS      | planned   |                      |- |- | - |- | - |
+| iPhone XS Max  | planned   |-                     | -|- | - |- | - |
+| iPhone XR      | planned   |-                     | -|- | - |- | - |
+
 
 Note: i do have a iPad Air 2 but broken screen but running 10.2
 
-# Devices 32Bit
-
-| Device | Supports |
-|---------|----------|
-| iPhone 4S | iOS 9.3.3/9.3.5 |
-| iPhone 5 | iOS 9.3.3 |
-| iPhone 5C | iOS 10.3.3 |
-
-# Not Supported 32bit Devices (MAY Work But NOT Tested as i dont have yet)
-| Device | Supports |
-|---------|----------|
-| iPod Touch 5 | Untested |
-| iPad 2 | Untested |
-| iPad Mini 1 | Untested |
-
-
-# Supported Devices iOS 7.0 to iOS 7.1.2 
-|iOS      |4        |4S       |5        |5C       |iPod Touch 5|iPad 2|iPad 3|iPad 4|iPad Mini 1|
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|iOS 7.0  |Untested |Untested |Untested |-        |Untested |Untested |Untested |Untested |Untested |
-|iOS 7.0.1|No JB    |No JB    | No JB   |Untested |No JB    |No JB    |No JB    |No JB    |No JB    |
-|iOS 7.0.2|Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |
-|iOS 7.0.3|Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |
-|iOS 7.0.4|Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |
-|iOS 7.0.5|No JB    |No JB    |No JB    |Untested |No JB    |No JB    |No JB    |No JB    |No JB    |
-|iOS 7.0.6|Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |
-|iOS 7.1  |Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |
-|iOS 7.1.1|Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |
-|iOS 7.1.2|Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |
-
-
-# Supported Devices iOS 8.0 to iOS 8.3
-|iOS       |4S        |5         |5C        |iPod Touch 5|iPad 2  |iPad 3    |iPad 4   |iPad Mini 1|
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|iOS 8.0   | Untested |Untested  |Untested  |Untested  |         -|Untested  |Untested  |Untested|
-|iOS 8.0.1 | Untested |Untested  |Untested  |Untested  |         -|Untested  |Untested  |Untested|
-|iOS 8.0.2 | Untested |Untested  |Untested  |Untested  |         -|Untested  |Untested  |Untested|
-|iOS 8.1   | Untested |Untested  |Untested  |Untested  |         -|Untested  |Untested  |Untested|
-|iOS 8.1.2 | Untested |Untested  |Untested  |Untested  |         -|Untested  |Untested  |Untested|
-|iOS 8.1.3 | Untested |Untested  |Untested  |Untested  |         -|Untested  |Untested  |Untested|
-|iOS 8.2   | working  |Untested  |working   |Untested  |         -|Untested  |Untested  |Untested|
-|iOS 8.3   | Untested |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested|
-|iOS 8.4   | Untested |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested|
-|iOS 8.4.1 | Untested |Untested  |Untested  |Untested  |Untested  |Untested  |NO JB     |Untested|
-
-# Supported Devices iOS 9.0 to iOS 9.3.5
-|iOS        |4S      |5       |5C       |iPod Touch 5|iPad 2|iPad 3|iPad 4|iPad Mini 1|
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-| iOS 9.0   |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
-| iOS 9.0.1 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
-| iOS 9.0.2 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
-| iOS 9.1   |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
-| iOS 9.2   |Working |Untested|Untested|Untested|Untested|Untested|Untested|Untested|
-| iOS 9.2.1 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
-| iOS 9.3   |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
-| iOS 9.3.1 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
-| iOS 9.3.2 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
-| iOS 9.3.3 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
-| iOS 9.3.4 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
-| iOS 9.3.5 | working|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
-
-# Supported Devices iOS 10.0 to iOS 10.3.3
-|iOS         |       5| 5C     |iPod Touch 5|iPad 4|
-|----------|----------|----------|----------|----------|
-| iOS 10.0   | Untested|Untested|Untested|Untested|
-| iOS 10.0.1 | Untested|Untested|Untested|Untested|
-| iOS 10.0.2 | Untested|Untested|Untested|Untested|
-| iOS 10.0.3 | Untested|Untested|Untested|Untested|
-| iOS 10.1   | Untested|Untested|Untested|Untested|
-| iOS 10.1.1 | Untested|Untested|Untested|Untested|
-| iOS 10.2   | Untested|Untested|Untested|Untested|
-| iOS 10.2.1 | Untested|Untested|Untested|Untested|
-| iOS 10.3   | Untested|Untested|Untested|Untested|
-| iOS 10.3.1 | Untested|Untested|Untested|Untested|
-| iOS 10.3.2 | Untested|Untested|Untested|Untested|
-| iOS 10.3.3 | Untested|working |Untested|Untested|
-
-# Devices 64Bit
-
-# Supported Devices 64Bit
+# Supported Devices 
 | Device | Supports |
 |---------|----------|
 | iPhone 5S | iOS 9.3.3 |
@@ -144,9 +63,9 @@ Note: i do have a iPad Air 2 but broken screen but running 10.2
 | Apple TV 4|planned|
 
 # Not Supported 64bit Devices  (MAY Work But NOT Tested as i dont have yet)
-| Device | Supports |Device | Supports |Device | Supports |
-|---------|----------|---------|----------|---------|----------|
-| iPhone SE | Planned | iPad Air | planned |iPod Touch 6 | planned |
+| Device | Supports |Device | Supports |Device | Supports |Device | Supports |
+|---------|----------|---------|----------|---------|----------|---------|----------|
+| iPhone SE | Planned | iPad Air | planned |iPod Touch 6 | planned |Apple TV 4K|planned|
 | iPhone 6  | planned | iPad Mini 2 | planned |-|-|
 | iPhone 6+ | planned | iPad Mini 3 | planned |-|-|
 | iPhone 6S | planned | iPad Mini 4 | planned |-|-|
