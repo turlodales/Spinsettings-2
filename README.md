@@ -15,7 +15,7 @@ My own plan is to make it work from see below
 - [ ] iOS 11
 - [ ] iOS 12
 
-my plain is to make a working verson of SpinSettings for ios 11.0 to 12.0
+my plain is to make a working verson of SpinSettings 2 for ios 11.0 to 12.0
 
 why am i putting is on github:
 
