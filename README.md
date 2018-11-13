@@ -1,10 +1,13 @@
-# Spinsettings-2 (64bit)
+# SpinSettings-2 (64bit)
 
 Dynamically rotating settings icon for jailbroken iDevices
 
 -----------------------------------------------------------------------------------------------------------------------------
+Hello and Welcome This is my own attempted to get it reworking but for 64bit Devices.
 
-This is my own attempted to get reworking my layout is taken form another tweak i have been working so i will be neating this up later just trying to make it looking better for my own mind
+for 32bit Devices Plz use the SpinSettings
+
+my layout is taken form another tweak i have been working so i will be neating this up later just trying to make it looking better and easyer for my own mind.
 
 My own plan is to make it work from see below
 
