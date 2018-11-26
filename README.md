@@ -5,7 +5,7 @@ Dynamically rotating settings icon for jailbroken iDevices
 -----------------------------------------------------------------------------------------------------------------------------
 Hello and Welcome This is my own attempted to get it reworking but for 64bit Devices.
 
-for 32bit Devices Plz use the SpinSettings
+for 32bit Devices Plz use the SpinSettings https://github.com/turlodales/SpinSettings
 
 my layout is taken form another tweak i have been working so i will be neating this up later just trying to make it looking better and easyer for my own mind.
 
