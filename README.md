@@ -38,22 +38,20 @@ My own road map
 # Not Supported Devices Yet above iOS 10
 | Device        | Staus   | Device                     | Staus | Device       | Staus   | Device     | Staus   |
 |---------|----------|---------|----------|---------|----------|---------|----------|
-| iPhone 5      | Planned | iPad Mini 1 | Planned              | iPod Touch 5 | Planned |Apple TV4   | Planned |
-| iPhone 5C     | Working | iPad Mini 2 | Planned              | iPod Touch 6 | Planned |Apple TV 4K | Planned |
-| iPhone 5S     | Planned | iPad Mini 3 | Planned |- | - |- | - |
-| iPhone 6      | Planned | iPad Mini 4 | Planned |- | - |- | - |
-| iPhone 6+     | Planned | iPad Air    | Planned |- | - |- | - |
-| iPhone SE     | Planned | iPad Air 2  | Planned |- | - |- | - |
-| iPhone 6S     | Planned |iPad Pro 12.9-inch (1st Gen)| Planned |- | - |- | - |
-| iPhone 6S+    | Planned |iPad Pro 9.7-inch  (1st Gen)| Planned |- | - |- | - |
-| iPhone 7      | Planned |iPad 2017          (5th Gen)| Planned |- | - |- | - |
-| iPhone 7+     | Planned |iPad Pro 12.9-inch (2nd Gen)| Planned |- | - |- | - |
-| iPhone 8      | Planned |iPad Pro 10.5-inch (2nd Gen)| Planned |- | - |- | - |
-| iPhone 8+     | Planned |iPad 2018          (6th Gen)| Planned |- | - |- | - |
-| iPhone X      | Planned |iPad Pro 11-inch   (3rd Gen)| Planned |- | - |- | - |
-| iPhone XS     | Planned |iPad Pro 12.9-inch (3rd Gen)| Planned |- | - |- | - |
-| iPhone XS Max | Planned |- | -|- | - |- | - |
-| iPhone XR     | Planned |- | - |- | - |
+|  iPhone 5S     | Planned | iPad Mini 1 | Planned              | iPod Touch 5 | Planned |Apple TV4   | Planned |
+|  iPhone 6      | Planned | iPad Mini 2 | Planned              | iPod Touch 6 | Planned |Apple TV 4K | Planned |
+|  iPhone 6+     | Planned | iPad Mini 3 | Planned |- | - |- | - |
+|  iPhone SE     | Planned | iPad Mini 4 | Planned |- | - |- | - |
+|  iPhone 6S     | Planned | iPad Air    | Planned |- | - |- | - |
+|  iPhone 6S+    | Planned | iPad Air 2  | Planned |- | - |- | - |
+|  iPhone 7      | Planned |iPad Pro 12.9-inch (1st Gen)| Planned |- | - |- | - |
+|  iPhone 7+     | Planned |iPad Pro 9.7-inch  (1st Gen)| Planned |- | - |- | - |
+|  iPhone 8      | Planned |iPad 2017          (5th Gen)| Planned |- | - |- | - |
+|  iPhone 8+     | Planned |iPad Pro 12.9-inch (2nd Gen)| Planned |- | - |- | - |
+|  iPhone X      | Planned |iPad Pro 10.5-inch (2nd Gen)| Planned |- | - |- | - |
+|  iPhone XS     | Planned |iPad 2018          (6th Gen)| Planned |- | - |- | - |
+|  iPhone XS Max | Planned |iPad Pro 11-inch   (3rd Gen)| Planned |- | - |- | - |
+|  iPhone XR     | Planned |iPad Pro 12.9-inch (3rd Gen)| Planned |- | - |- | - |
 
 
 Notes: 
@@ -61,16 +59,19 @@ Notes:
 | Number | Decsription |
 |---------|----------|
 | 1 | i do have a iPad Air 2 but broken screen but running 10.2 |
-| 2 | 5C got off ebay on iOS 10.3.3 no shsh2 blobs so cant downgrade |
-| 3 | iPhone 6 got off friend on iOS 12.0 no shsh2 blobs so cant downgrade below 12.0 |
+| 2 | iPhone 4 got off ebay on iOS 7.1.2 no shsh2 blobs so cant downgrade below 7.1.2 |
+| 3 | iPhone 5 got off ebay on iOS 10.3.3 no shsh2 blobs so cant downgrade below 10.3.3 |
+| 4 | 5C got off ebay on iOS 10.3.3 no shsh2 blobs so cant downgrade |
+| 5 | iPhone 6 got off friend on iOS 12.0 no shsh2 blobs so cant downgrade below 12.0 |
 
 
 # Devices 32Bit
 
 | Device | Supports |
 |---------|----------|
+| iPhone 4 | iOS 7.1.2 |
 | iPhone 4S | iOS 9.3.3/9.3.5 |
-| iPhone 5 | iOS 9.3.3 |
+| iPhone 5 | iOS 10.3.3 |
 | iPhone 5C | iOS 10.3.3 |
 
 # Not Supported 32bit Devices (MAY Work But NOT Tested as i dont have yet)
@@ -93,19 +94,19 @@ Notes:
 |iOS 7.0.6|Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |
 |iOS 7.1  |Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |
 |iOS 7.1.1|Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |
-|iOS 7.1.2|Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |
+|iOS 7.1.2|Working |Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |
 
 
 # Supported Devices iOS 8.0 to iOS 8.3
 |iOS       |4S        |5         |5C        |iPod Touch 5|iPad 2  |iPad 3    |iPad 4   |iPad Mini 1|
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|iOS 8.0   | Untested |Untested  |Untested  |Untested  |         -|Untested  |Untested  |Untested|
-|iOS 8.0.1 | Untested |Untested  |Untested  |Untested  |         -|Untested  |Untested  |Untested|
-|iOS 8.0.2 | Untested |Untested  |Untested  |Untested  |         -|Untested  |Untested  |Untested|
-|iOS 8.1   | Untested |Untested  |Untested  |Untested  |         -|Untested  |Untested  |Untested|
-|iOS 8.1.2 | Untested |Untested  |Untested  |Untested  |         -|Untested  |Untested  |Untested|
-|iOS 8.1.3 | Untested |Untested  |Untested  |Untested  |         -|Untested  |Untested  |Untested|
-|iOS 8.2   | working  |Untested  |working   |Untested  |         -|Untested  |Untested  |Untested|
+|iOS 8.0   | Untested |Untested  |Untested  |Untested  |     -    |Untested  |Untested  |Untested|
+|iOS 8.0.1 | Untested |Untested  |Untested  |Untested  |     -    |Untested  |Untested  |Untested|
+|iOS 8.0.2 | Untested |Untested  |Untested  |Untested  |     -    |Untested  |Untested  |Untested|
+|iOS 8.1   | Untested |Untested  |Untested  |Untested  |     -    |Untested  |Untested  |Untested|
+|iOS 8.1.2 | Untested |Untested  |Untested  |Untested  |     -    |Untested  |Untested  |Untested|
+|iOS 8.1.3 | Untested |Untested  |Untested  |Untested  |     -    |Untested  |Untested  |Untested|
+|iOS 8.2   | working  |Untested  |working   |Untested  |     -    |Untested  |Untested  |Untested|
 |iOS 8.3   | Untested |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested|
 |iOS 8.4   | Untested |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested|
 |iOS 8.4.1 | Untested |Untested  |Untested  |Untested  |Untested  |Untested  |NO JB     |Untested|
@@ -175,7 +176,7 @@ Notes:
 # Supported Devices iOS 7.0 to iOS 7.1.2 
 |iOS       |5S        |iPad Air  |iPad Mini 2|
 |----------|----------|----------|----------|
-|iOS 7.0   |-         |-         |-|
+|iOS 7.0   |    -     |-         |-|
 |iOS 7.0.1 |No JB     |-         |-|
 |iOS 7.0.2 |Untested  |-         |-|
 |iOS 7.0.3 |Untested  |Untested  |Untested|
@@ -237,7 +238,6 @@ Notes:
 
 
 # Supported Devices iOS 11.0 to iOS 11.4.1 
-
 |iOS      |5S|6|6+|6S|6S+|SE|7|7+|8|8+|X|iPod Touch 6|iPad Mini 2|iPad Mini 3|iPad Mini 4|iPad Air|iPad Air 2|iPad Pro (12.9 inch) 1st gen|iPad Pro (9.7 inch) 1st gen|iPad 5 2017|iPad Pro (12.9 inch, 2nd gen)|iPad Pro (10.5 inch 2nd gen)|iPad 6 2018|Apple TV 4|Apple TV 4K|
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
 |iOS 11.0     |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|-      |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |-              |NO|NO|
