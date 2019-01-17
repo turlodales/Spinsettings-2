@@ -59,89 +59,7 @@ Notes:
 | Number | Decsription |
 |---------|----------|
 | 1 | i do have a iPad Air 2 but broken screen but running 10.2 |
-| 2 | iPhone 4 got off ebay on iOS 7.1.2 no shsh2 blobs so cant downgrade below 7.1.2 |
-| 3 | iPhone 5 got off ebay on iOS 10.3.3 no shsh2 blobs so cant downgrade below 10.3.3 |
-| 4 | 5C got off ebay on iOS 10.3.3 no shsh2 blobs so cant downgrade |
 | 5 | iPhone 6 got off friend on iOS 12.0 no shsh2 blobs so cant downgrade below 12.0 |
-
-
-# Devices 32Bit
-
-| Device | Supports |
-|---------|----------|
-| iPhone 4 | iOS 7.1.2 |
-| iPhone 4S | iOS 9.3.3/9.3.5 |
-| iPhone 5 | iOS 10.3.3 |
-| iPhone 5C | iOS 10.3.3 |
-
-# Not Supported 32bit Devices (MAY Work But NOT Tested as i dont have yet)
-| Device | Supports |
-|---------|----------|
-| iPod Touch 5 | Untested |
-| iPad 2 | Untested |
-| iPad Mini 1 | Untested |
-
-
-# Supported Devices iOS 7.0 to iOS 7.1.2 
-|iOS      |4        |4S       |5        |5C       |iPod Touch 5|iPad 2|iPad 3|iPad 4|iPad Mini 1|
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|iOS 7.0  |Untested |Untested |Untested |-        |Untested |Untested |Untested |Untested |Untested |
-|iOS 7.0.1|No JB    |No JB    | No JB   |Untested |No JB    |No JB    |No JB    |No JB    |No JB    |
-|iOS 7.0.2|Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |
-|iOS 7.0.3|Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |
-|iOS 7.0.4|Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |
-|iOS 7.0.5|No JB    |No JB    |No JB    |Untested |No JB    |No JB    |No JB    |No JB    |No JB    |
-|iOS 7.0.6|Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |
-|iOS 7.1  |Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |
-|iOS 7.1.1|Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |
-|iOS 7.1.2|Working |Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |
-
-
-# Supported Devices iOS 8.0 to iOS 8.3
-|iOS       |4S        |5         |5C        |iPod Touch 5|iPad 2  |iPad 3    |iPad 4   |iPad Mini 1|
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|iOS 8.0   | Untested |Untested  |Untested  |Untested  |     -    |Untested  |Untested  |Untested|
-|iOS 8.0.1 | Untested |Untested  |Untested  |Untested  |     -    |Untested  |Untested  |Untested|
-|iOS 8.0.2 | Untested |Untested  |Untested  |Untested  |     -    |Untested  |Untested  |Untested|
-|iOS 8.1   | Untested |Untested  |Untested  |Untested  |     -    |Untested  |Untested  |Untested|
-|iOS 8.1.2 | Untested |Untested  |Untested  |Untested  |     -    |Untested  |Untested  |Untested|
-|iOS 8.1.3 | Untested |Untested  |Untested  |Untested  |     -    |Untested  |Untested  |Untested|
-|iOS 8.2   | working  |Untested  |working   |Untested  |     -    |Untested  |Untested  |Untested|
-|iOS 8.3   | Untested |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested|
-|iOS 8.4   | Untested |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested|
-|iOS 8.4.1 | Untested |Untested  |Untested  |Untested  |Untested  |Untested  |NO JB     |Untested|
-
-# Supported Devices iOS 9.0 to iOS 9.3.5
-|iOS        |4S      |5       |5C       |iPod Touch 5|iPad 2|iPad 3|iPad 4|iPad Mini 1|
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-| iOS 9.0   |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
-| iOS 9.0.1 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
-| iOS 9.0.2 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
-| iOS 9.1   |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
-| iOS 9.2   |Working |Untested|Untested|Untested|Untested|Untested|Untested|Untested|
-| iOS 9.2.1 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
-| iOS 9.3   |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
-| iOS 9.3.1 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
-| iOS 9.3.2 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
-| iOS 9.3.3 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
-| iOS 9.3.4 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
-| iOS 9.3.5 | working|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
-
-# Supported Devices iOS 10.0 to iOS 10.3.3
-|iOS         |       5| 5C     |iPod Touch 5|iPad 4|
-|----------|----------|----------|----------|----------|
-| iOS 10.0   | Untested|Untested|Untested|Untested|
-| iOS 10.0.1 | Untested|Untested|Untested|Untested|
-| iOS 10.0.2 | Untested|Untested|Untested|Untested|
-| iOS 10.0.3 | Untested|Untested|Untested|Untested|
-| iOS 10.1   | Untested|Untested|Untested|Untested|
-| iOS 10.1.1 | Untested|Untested|Untested|Untested|
-| iOS 10.2   | Untested|Untested|Untested|Untested|
-| iOS 10.2.1 | Untested|Untested|Untested|Untested|
-| iOS 10.3   | Untested|Untested|Untested|Untested|
-| iOS 10.3.1 | Untested|Untested|Untested|Untested|
-| iOS 10.3.2 | Untested|Untested|Untested|Untested|
-| iOS 10.3.3 | Untested|working |Untested|Untested|
 
 # Devices 64Bit
 
@@ -263,7 +181,9 @@ Notes:
 |iOS 12.0     |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO  |NO  |NO|NO   |NO  |- |-  |NO|NO|
 |iOS 12.0.1   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO  |NO  |NO|NO   |NO  |- |-  |NO|NO|
 |iOS 12.1     |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO  |NO  |NO|NO   |NO  |NO|NO |NO|NO|
-|iOS 12.1.1 Beta 1 |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO  |NO |NO|NO |NO |NO|NO |NO|NO|
+|iOS 12.1.1   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO  |NO |NO|NO |NO |NO|NO |NO|NO|
+|iOS 12.1.2   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO  |NO |NO|NO |NO |NO|NO |NO|NO|
+|iOS 12.1.3 b4 |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO  |NO |NO|NO |NO |NO|NO |NO|NO|
 
 -----------------------------------------------------------------------------------------------------------------------------
 
