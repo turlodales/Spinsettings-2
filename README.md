@@ -6,6 +6,7 @@ Dynamically rotating settings icon for jailbroken iDevices
 Hello and Welcome This is my own attempted to get it reworking but for 64bit Devices.
 
 for 32bit Devices Plz use the SpinSettings https://github.com/turlodales/SpinSettings
+for iPadOS Devices plz use the SpinSettings-2 (iPadSO) https://github.com/turlodales/SpinSettings-2-iPadSO-
 
 my layout is taken form another tweak i have been working so i will be neating this up later just trying to make it looking better and easyer for my own mind.
 
@@ -58,9 +59,6 @@ Notes:
 | 1 | i do have a iPad Air 2 but broken screen but running 10.2 |
 | 2 | iPhone 6 got off friend on iOS 12.0 no shsh2 blobs so cant downgrade below 12.0 |
 | 3 | iPhone SE got off Ebay on iOS 12.?.? no shsh2 blobs so cant downgrade below 12.1.3 |
-
-
-
 
 
 # Devices 64Bit
