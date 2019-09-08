@@ -37,7 +37,7 @@ My own road map
 - [ ] Step 7 = Update when needed 
 
 # Not Supported Devices Yet above iOS 10
-| Device        | Staus   | Device                     | Staus | Device       | Staus   | 
+| Device         | Staus   | Device        | Staus |      Device       | Staus   | 
 |---------|----------|---------|----------|---------|----------|
 |  iPhone 5S     | Planned | iPad Mini 2 | Planned              | iPod Touch 6 | Planned |
 |  iPhone 6      | Planned | iPad Mini 3 | Planned              |      -       | Planned |
