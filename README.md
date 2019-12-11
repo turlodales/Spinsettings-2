@@ -230,4 +230,4 @@ FreeNAS OS for my Home Server's
 
 Youtube for the vid's that have helped me do this I will list them all soon more to follow when I have spoken to them if I can post they vids
 
-In case anyone is wondering I started using jailbroken devices from the iPhone original 2G,3GS,4S,5S,6S+,8+ I do like the S models. I only have 2 iPads Air 2 and Pro 12.9. I have the Apple TV 3 and 4 sadly both not jailbroken yet and I have the Apple Watch 1st gen. I now have the iPhone 5C I got of eBay on 10.3.3 and got my iPhone 6 off my mate sadly I don't have any of the SHSH2 blobs saved I just want to help put something back into the community.
+In case anyone is wondering I started using jailbroken devices from the iPhone original 2G,3GS,4S,5S,6S+,8+,11 Pro Max I do liked the S models. I only have 2 iPads Air 2 and Pro 12.9 1st gen and the Pro 12.9 3rd gen. I have the Apple TV 3 and 4 sadly both not jailbroken yet and I have the Apple Watch 1st gen. I now have the iPhone 5C I got of eBay on 10.3.3 and got my iPhone 6 off my mate sadly I don't have any of the SHSH2 blobs saved I just want to help put something back into the community.
