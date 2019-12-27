@@ -214,6 +214,7 @@ Notes:
 |iOS 13.2.2   |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|
 |iOS 13.2.3   |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|
 |iOS 13.3     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|
+|iOS 13.3.1 Beta 1 |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|
 
 -----------------------------------------------------------------------------------------------------------------------------
 
