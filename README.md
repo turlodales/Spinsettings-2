@@ -57,6 +57,8 @@ My own road map
 |  iPhone XS     | Planned |iPad Pro 11-inch   (3rd Gen)| Planned |- | - |- | - |
 |  iPhone XS Max | Planned |iPad Pro 12.9-inch (3rd Gen)| Planned |- | - |- | - |
 |  iPhone XR     | Planned |- | - |- | - |- | - |
+|  iPhone 11     | Planned |- | - |- | - |- | - |
+|  iPhone 11 Pro   | Planned |- | - |- | - |- | - |
 
 Notes: 
 
