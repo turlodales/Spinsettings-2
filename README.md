@@ -5,11 +5,11 @@ Dynamically rotating settings icon for jailbroken iDevices
 -----------------------------------------------------------------------------------------------------------------------------
 Hello and Welcome This is my own attempted to get it reworking but for 64bit Devices.
 
-| Decsription | Link|
-|---------|----------|
-| SpinSettings (32/64bit)forked form the origanal verson | https://github.com/turlodales/SpinSettings |
-| SpinSettings-2 (iPadOS) | https://github.com/turlodales/SpinSettings-2-iPadSO |
-| SpinSettings-2 (TVOS) |https://github.com/turlodales/SpinSettings-2-TVOS|
+| Decsription | ios version |Link|
+|---------|---------|---------|
+| SpinSettings (32/64bit)forked form the origanal verson || https://github.com/turlodales/SpinSettings |
+| SpinSettings-2 (iPadOS) || https://github.com/turlodales/SpinSettings-2-iPadSO |
+| SpinSettings-2 (TVOS) ||https://github.com/turlodales/SpinSettings-2-TVOS|
 
 
 
