@@ -203,6 +203,9 @@ Notes:
 |iOS 12.4.1   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO  |NO |NO|NO |NO |NO|NO |
 |iOS 12.4.2   |NO |NO|NO |-|- |- |-|- |-|- |-|- |-  |NO  |NO|NO|-  |NO|-  |-|-  |- |-|- |- |-|- |
 |iOS 12.4.3   |NO |NO|NO |-|- |- |-|- |-|- |-|- |-  |NO  |NO|NO|-  |NO|-  |-|-  |- |-|- |- |-|- |
+|iOS 12.4.4   |NO |NO|NO |-|- |- |-|- |-|- |-|- |-  |NO  |NO|NO|-  |NO|-  |-|-  |- |-|- |- |-|- |
+|iOS 12.4.5   |NO |NO|NO |-|- |- |-|- |-|- |-|- |-  |NO  |NO|NO|-  |NO|-  |-|-  |- |-|- |- |-|- |
+|iOS 12.4.6   |NO |NO|NO |-|- |- |-|- |-|- |-|- |-  |NO  |NO|NO|-  |NO|-  |-|-  |- |-|- |- |-|- |
 
 # Supported Devices iOS 13.0 to iOS 13.3 
 |iOS|6S|6S+|SE|7|7+|8|8+|XS|XS Max|XR|11|11 Pro|11 Pro Max|iPod Touch 7|
