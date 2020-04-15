@@ -59,6 +59,7 @@ My own road map
 |  iPhone XR     | Planned |- | - |- | - |- | - |
 |  iPhone 11     | Planned |- | - |- | - |- | - |
 |  iPhone 11 Pro   | Planned |- | - |- | - |- | - |
+|  iPhone SE (2020) | Planned |- | - |- | - |- | - |
 
 Notes: 
 
@@ -100,7 +101,7 @@ Notes:
 | iPhone XS Max | planned | iPad Pro (12.9 inch) 2nd gen|Planned|-|-|
 | iPhone 11 | planned | iPad Pro (10.5 inch) 2nd gen| Planned |-|-|
 | iPhone 11 Pro| planned | iPad 2018 | Planned |-|-|
-| -  | - | iPad Pro 11-inch (3rd Gen| Planned |-|-|
+| iPhone SE (2020)  | - | iPad Pro 11-inch (3rd Gen| Planned |-|-|
 
 
 # Supported Devices iOS 7.0 to iOS 7.1.2 
@@ -208,18 +209,21 @@ Notes:
 |iOS 12.4.6   |NO |NO|NO |-|- |- |-|- |-|- |-|- |-  |NO  |NO|NO|-  |NO|-  |-|-  |- |-|- |- |-|- |
 
 # Supported Devices iOS 13.0 to iOS 13.3 
-|iOS|6S|6S+|SE|7|7+|8|8+|XS|XS Max|XR|11|11 Pro|11 Pro Max|iPod Touch 7|
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|iOS 13.0     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|
-|iOS 13.1     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|
-|iOS 13.1.1   |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|
-|iOS 13.1.2   |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|
-|iOS 13.1.3   |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|
-|iOS 13.2     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|
-|iOS 13.2.2   |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|
-|iOS 13.2.3   |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|
-|iOS 13.3     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|
-|iOS 13.3.1 Beta 1 |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|
+|iOS|6S|6S+|SE|7|7+|8|8+|XS|XS Max|XR|11|11 Pro|11 Pro Max|SE (2020)|iPod Touch 7|
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|iOS 13.0     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|  NO|
+|iOS 13.1     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|  NO|
+|iOS 13.1.1   |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|  NO|
+|iOS 13.1.2   |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|  NO|
+|iOS 13.1.3   |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|  NO|
+|iOS 13.2     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|  NO|
+|iOS 13.2.2   |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|  NO|
+|iOS 13.2.3   |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|  NO|
+|iOS 13.3     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|  NO|
+|iOS 13.3.1   |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|  NO|
+|iOS 13.4     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|  NO|
+|iOS 13.4.1   |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|  NO|
+|iOS 13.4.5 Beta   |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|  NO|
 
 -----------------------------------------------------------------------------------------------------------------------------
 
