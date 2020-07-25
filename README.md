@@ -24,6 +24,7 @@ My own plan is to make it work from see below
 - [ ] iOS 11
 - [ ] iOS 12
 - [ ] iOS 13
+- [ ] iOS 14
 
 my plain is to make a working verson of SpinSettings for ios 11.0 to 12.0
 
@@ -225,6 +226,13 @@ Notes:
 |iOS 13.4     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|  NO|
 |iOS 13.4.1   |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|  NO|
 |iOS 13.5     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|  NO|
+|iOS 13.5.1   |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|  NO|
+|iOS 13.6     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|  NO|
+
+# Supported Devices iOS 14.0 to iOS 14.0 
+|iOS|6S|6S+|SE|7|7+|8|8+|XS|XS Max|XR|11|11 Pro|11 Pro Max|SE (2020)|iPod Touch 7|
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|iOS 14.0 Beta 3   |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|  NO|
 
 -----------------------------------------------------------------------------------------------------------------------------
 
