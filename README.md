@@ -68,8 +68,10 @@ Notes:
 |---------|----------|
 | 1 | i do have a iPad Air 2 but broken screen but running 10.2 |
 | 2 | iPhone 6 got off friend on iOS 12.0 no shsh2 blobs so cant downgrade below 12.0 |
-| 3 | iPhone SE got off Ebay on iOS 12.?.? no shsh2 blobs so cant downgrade below 12.1.3 |
-| 4 | iPhone 7 got off Ebay on iOS 1?.?.? no shsh2 blobs so cant downgrade below 1?.?.? |
+| 3 | iPhone 6S got off eBay on iOS 12.2 no shsh2 blobs so cant downgrade below 12.2 |
+| 4 | iPhone SE got off eBay on iOS 12.1.2 no shsh2 blobs so cant downgrade below 12.1.2 |
+| 5 | iPhone 7 got off eBay on iOS 13.1.2 no shsh2 blobs so cant downgrade below 13.1.2 |
+| 6 | iPhone 7+ got off friend on iOS 13.7 no shsh2 blobs so cant downgrade below 13.7 |
 
 # Devices 64Bit
 
