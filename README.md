@@ -228,7 +228,7 @@ Notes:
 |iOS 12.5.2   |NO |NO|NO |-|-   |-  |-|-   |-|-   |-|-   |-   |NO  |NO|NO|-   |NO|-   |-|-    |-   |-|-     |-   |-|-   |
 |iOS 12.5.3   |NO |NO|NO |-|-   |-  |-|-   |-|-   |-|-   |-   |NO  |NO|NO|-   |NO|-   |-|-    |-   |-|-     |-   |-|-   |
 
-# Supported Devices iOS 13.0 to iOS 13.5 
+# Supported Devices iOS 13.0 to iOS 13.7 
 |iOS|6S|6S+|SE|7|7+|8|8+|XS|XS Max|XR|11|11 Pro|11 Pro Max|SE (2020)|iPod Touch 7|
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
 |iOS 13.0     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|  NO|
@@ -246,12 +246,28 @@ Notes:
 |iOS 13.5     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|  NO|
 |iOS 13.5.1   |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|  NO|
 |iOS 13.6     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|  NO|
+|iOS 13.6.1   |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|  NO|
+|iOS 13.7     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|  NO|
 
-# Supported Devices iOS 14.0 to iOS 14.0 
-|iOS|6S|6S+|SE|7|7+|8|8+|XS|XS Max|XR|11|11 Pro|11 Pro Max|SE (2020)|iPod Touch 7|
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|iOS 14.0 Beta 3   |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|  NO|
+# Supported Devices iOS 14.0 to iOS 14.6 
+|iOS|6S|6S+|SE|7|7+|8|8+|XS|XS Max|XR|11|11 Pro|11 Pro Max|SE (2020)|12|12 Mini|12 Pro|12 Pro Max|iPod Touch 7|
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|iOS 14.0     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|-|-|-|-| NO|
+|iOS 14.0.1   |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|-|-|-|-| NO|
+|iOS 14.1     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO| NO|NO|NO|NO| NO|
+|iOS 14.2     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO| NO|NO|NO|NO| NO|
+|iOS 14.3     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO| NO|NO|NO|NO| NO|
+|iOS 14.4     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO| NO|NO|NO|NO| NO|
+|iOS 14.4.1   |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO| NO|NO|NO|NO| NO|
+|iOS 14.4.2   |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO| NO|NO|NO|NO| NO|
+|iOS 14.5     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO| NO|NO|NO|NO| NO|
+|iOS 14.5.1   |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO| NO|NO|NO|NO| NO|
+|iOS 14.6     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO| NO|NO|NO|NO| NO|
 
+# Supported Devices iOS 15.0 to iOS 15.0 
+|iOS|6S|6S+|SE|7|7+|8|8+|XS|XS Max|XR|11|11 Pro|11 Pro Max|SE (2020)|12|12 Mini|12 Pro|12 Pro Max|iPod Touch 7|
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|iOS 15.0     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO| NO|NO|NO|NO| NO|
 -----------------------------------------------------------------------------------------------------------------------------
 
 
