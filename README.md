@@ -79,6 +79,7 @@ Notes:
 | 4 | iPhone SE got off eBay on iOS 12.1.2 no shsh2 blobs so cant downgrade below 12.1.2 |
 | 5 | iPhone 7 got off eBay on iOS 13.1.2 no shsh2 blobs so cant downgrade below 13.1.2 |
 | 6 | iPhone 7+ got off friend on iOS 13.7 no shsh2 blobs so cant downgrade below 13.7 |
+| 7 | iPad Mini 2nd Gen off Ebay on iOS 12.5.1 no shsh2 blobs so cant downgrade below 12.5.1 |
 
 # Devices 64Bit
 
@@ -95,6 +96,7 @@ Notes:
 | iPhone 7+    | Planned |
 | iPhone 8+   | Planned |
 | iPhone 11 Pro Max   | Planned |
+| iPad Mini 2  | Planned |
 | iPad Air 2  | iOS 9.3.3 |
 | iPad Pro 12.9-inch (1st gen) |10.2|
 | iPad Pro 12.9-inch (3rd Gen)| Planned |
@@ -104,18 +106,18 @@ Notes:
 | Device | Supports |Device | Supports |Device | Supports |
 |---------|----------|---------|----------|---------|----------|
 | iPhone 6+ | Planned | iPad Air | Planned |iPod Touch 6 | planned |
-| iPhone 8 | planned | iPad Mini 2 | Planned |-|-|
-| iPhone X | planned | iPad Mini 3 | Planned |-|-|
-| iPhone XR  | planned | iPad Mini 4 | Planned |-|-|
-| iPhone XS | planned | iPad 2017 | Planned |-|-|
-| iPhone XS Max| planned | iPad Pro (9.7 inch 1st gen | Planned |-|-|
-| iPhone 11 | planned | iPad Pro (12.9 inch) 2nd gen|Planned|-|-|
-| iPhone 11 Pro | planned | iPad Pro (10.5 inch) 2nd gen| Planned |-|-|
-| iPhone SE (2020) | planned | iPad 2018 | Planned |-|-|
-| iPhone 12 | - | iPad Pro 11-inch (3rd Gen| Planned |-|-|
-| iPhone 12 Mini | - | - |-|-|
-| iPhone 12 Pro | - | - |-|-|
-| iPhone 12 Pro Max | - | - |-|-|
+| iPhone 8 | planned | iPad Mini 3 | Planned |-|-|
+| iPhone X | planned | iPad Mini 4 | Planned |-|-|
+| iPhone XR  | planned | iPad 2017 | Planned |-|-|
+| iPhone XS | planned | iPad Pro (9.7 inch 1st gen  | Planned |-|-|
+| iPhone XS Max| planned | iPad Pro (12.9 inch) 2nd gen | Planned |-|-|
+| iPhone 11 | planned | iPad Pro (10.5 inch) 2nd gen |Planned|-|-|
+| iPhone 11 Pro | planned | iPad 2018 | Planned |-|-|
+| iPhone SE (2020) | planned | iPad Pro 11-inch (3rd Gen | Planned |-|-|
+| iPhone 12 | Planned | -| Planned |-|-|
+| iPhone 12 Mini | Planned | - |-|-|
+| iPhone 12 Pro | Planned | - |-|-|
+| iPhone 12 Pro Max | Planned | - |-|-|
 
 # Supported Devices iOS 7.0 to iOS 7.1.2 
 |iOS       |5S        |iPad Air  |iPad Mini 2|
