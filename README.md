@@ -48,18 +48,18 @@ My own road map
 |  iPhone 5S     | Planned | iPad Mini 2 | Planned              | iPod Touch 6 | Planned |
 |  iPhone 6      | Planned | iPad Mini 3 | Planned              |      -       | Planned |
 |  iPhone 6+     | Planned | iPad Mini 4 | Planned |- | - |- | - |
-|  iPhone SE     | Planned | iPad Air    | Planned |- | - |- | - |
-|  iPhone 6S     | Planned | iPad Air 2  | Planned |- | - |- | - |
-|  iPhone 6S+    | Planned |iPad Pro 12.9-inch (1st Gen)| Planned |- | - |- | - |
-|  iPhone 7      | Planned |iPad Pro 9.7-inch  (1st Gen)| Planned |- | - |- | - |
-|  iPhone 7+     | Planned |iPad 2017          (5th Gen)| Planned |- | - |- | - |
-|  iPhone 8      | Planned |iPad Pro 12.9-inch (2nd Gen)| Planned |- | - |- | - |
-|  iPhone 8+     | Planned |iPad Pro 10.5-inch (2nd Gen)| Planned |- | - |- | - |
-|  iPhone X      | Planned |iPad 2018          (6th Gen)| Planned |- | - |- | - |
-|  iPhone XS     | Planned |iPad Pro 11-inch   (3rd Gen)| Planned |- | - |- | - |
-|  iPhone XS Max | Planned |iPad Pro 12.9-inch (3rd Gen)| Planned |- | - |- | - |
-|  iPhone XR     | Planned |- | - |- | - |- | - |
-|  iPhone 11     | Planned |- | - |- | - |- | - |
+|  iPhone SE     | Planned | iPad Mini 5 | Planned |- | - |- | - |
+|  iPhone 6S     | Planned | iPad Air    | Planned |- | - |- | - |
+|  iPhone 6S+    | Planned |iPad Air 2   | Planned |- | - |- | - |
+|  iPhone 7      | Planned |iPad Air 3   | Planned |- | - |- | - |
+|  iPhone 7+     | Planned |iPad Pro 9.7-inch  (1st Gen)| Planned |- | - |- | - |
+|  iPhone 8      | Planned |iPad Pro 12.9-inch (1st Gen)| Planned |- | - |- | - |
+|  iPhone 8+     | Planned |iPad 2017          (5th Gen)| Planned |- | - |- | - |
+|  iPhone X      | Planned |iPad Pro 10.5-inch (2nd Gen)| Planned |- | - |- | - |
+|  iPhone XS     | Planned |iPad Pro 12.9-inch (2nd Gen)| Planned |- | - |- | - |
+|  iPhone XS Max | Planned |iPad 2018          (6th Gen)| Planned |- | - |- | - |
+|  iPhone XR     | Planned |iPad Pro 11-inch   (3rd Gen) | - |- | - |- | - |
+|  iPhone 11     | Planned |iPad Pro 12.9-inch (3rd Gen)| - |- | - |- | - |
 |  iPhone 11 Pro | Planned |- | - |- | - |- | - |
 |  iPhone 11 Pro Max | Planned |- | - |- | - |- | - |
 |  iPhone SE (2020) | Planned |- | - |- | - |- | - |
@@ -226,9 +226,10 @@ Notes:
 |iOS 11.4.1   |NO JB|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO  |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |NO             |
 
 
-# Supported Devices iOS 12.0 to iOS 12.4.7
-|iOS|5S|6|6+|6S|6S+|SE|7|7+|8|8+|XS|XS Max|XR|iPod Touch 6|iPad Mini 2|iPad Mini 3|iPad Mini 4|iPad Air|iPad Air 2|iPad Pro (12.9 inch) 1st gen|iPad Pro (9.7 inch) 1st gen|iPad 5 2017|iPad Pro (12.9 inch, 2nd gen)|iPad Pro (10.5 inch 2nd gen)|iPad 6 2018|iPad Pro 11-inch (3rd Gen)|iPad Pro 12.9-inch (3rd Gen)|
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|---------- |---------- |---------- |----------|----------|
+# Supported Devices iOS 12.0 to iOS 12.5.4
+|iOS|5S|6|6+|6S|6S+|SE|7|7+|8|8+|XS|XS Max|XR|iPod Touch 6|iPad Mini 2|iPad Mini 3|iPad Mini 4|iPad Mini 5|iPad Air|iPad Air 2|iPad Air 3|iPad Pro (12.9 inch) 1st gen|iPad Pro (9.7 inch) 1st gen|iPad 5 2017|iPad Pro (12.9 inch, 2nd gen)|iPad Pro (10.5 inch 2nd gen)|iPad 6 2018|iPad Pro 11-inch (3rd Gen)|iPad Pro 12.9-inch (3rd Gen)|
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|---------- |---------- |---------- |----------|----------|----------|----------|
+|iOS 12.0     |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO | NO| |NO  |NO  |NO|NO|NO|N?O  |NO|NO|N?O  |NO|NO  |NO  |NO|NO   |NO  |- |-  |
 |iOS 12.0     |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO  |NO  |NO|NO   |NO  |- |-  |
 |iOS 12.0.1   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO  |NO  |NO|NO   |NO  |- |-  |
 |iOS 12.1     |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO  |NO  |NO|NO   |NO  |NO|NO |
@@ -252,6 +253,7 @@ Notes:
 |iOS 12.5.1   |NO |NO|NO |-|-   |-  |-|-   |-|-   |-|-   |-   |NO  |NO|NO|-   |NO|-   |-|-    |-   |-|-     |-   |-|-   |
 |iOS 12.5.2   |NO |NO|NO |-|-   |-  |-|-   |-|-   |-|-   |-   |NO  |NO|NO|-   |NO|-   |-|-    |-   |-|-     |-   |-|-   |
 |iOS 12.5.3   |NO |NO|NO |-|-   |-  |-|-   |-|-   |-|-   |-   |NO  |NO|NO|-   |NO|-   |-|-    |-   |-|-     |-   |-|-   |
+|iOS 12.5.4   |NO |NO|NO |-|-   |-  |-|-   |-|-   |-|-   |-   |NO  |NO|NO|-   |NO|-   |-|-    |-   |-|-     |-   |-|-   |
 
 # Supported Devices iOS 13.0 to iOS 13.7 
 |iOS|6S|6S+|SE|7|7+|8|8+|XS|XS Max|XR|11|11 Pro|11 Pro Max|SE (2020)|iPod Touch 7|
