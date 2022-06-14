@@ -90,31 +90,7 @@ Notes:
 | - | - | iPad 2018 | Planned |-|-|
 | -| - | iPad Pro 11-inch (3rd Gen | Planned |-|-|
 
-
-
-
-
 # Supported Devices iOS 7.0 to iOS 7.1.2 
-|iOS       |5S        |iPad Air  |iPad Mini 2|
-|----------|----------|----------|----------|
-|iOS 7.0   |    -     |-         |-|
-|iOS 7.0.1 |No JB     |-         |-|
-|iOS 7.0.2 |Untested  |-         |-|
-|iOS 7.0.3 |Untested  |Untested  |Untested|
-|iOS 7.0.4 |Untested  |Untested  |Untested|
-|iOS 7.0.5 |No JB     |No JB     |No JB|
-|iOS 7.0.6 |Untested  |Untested  |Untested|
-|iOS 7.1   |Untested  |Untested  |Untested|
-|iOS 7.1.1 |Untested  |Untested  |Untested|
-|iOS 7.1.2 |Untested  |Untested  |Untested|
-
-# Supported Devices iOS 7.0 to iOS 7.1.2 
-| iOS         | iOS 7.0 |  iOS 7.0.1 |iOS 7.0.2 |iOS 7.0.3 |iOS 7.0.4 |iOS 7.0.5 |iOS 7.0.6 |iOS 7.1   |iOS 7.1.1 |iOS 7.1.2 |
-| ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-| 5S          | - | No JB  |iOS 7.0.2 |iOS 7.0.3 |iOS 7.0.4 |iOS 7.0.5 |iOS 7.0.6 |iOS 7.1   |iOS 7.1.1 |iOS 7.1.2 |
-| iPad Air    | - | - |iOS 7.0.2 |iOS 7.0.3 |iOS 7.0.4 |iOS 7.0.5 |iOS 7.0.6 |iOS 7.1   |iOS 7.1.1 |iOS 7.1.2 |
-| iPad Mini 2 | - | - |iOS 7.0.2 |iOS 7.0.3 |iOS 7.0.4 |iOS 7.0.5 |iOS 7.0.6 |iOS 7.1   |iOS 7.1.1 |iOS 7.1.2 |
-
 |iOS       |5S        |iPad Air  |iPad Mini 2|
 |----------|----------|----------|----------|
 |iOS 7.0.2 |Untested  |-         |-|
