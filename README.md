@@ -24,11 +24,9 @@ My own plan is to make it work from see below
 - [x] iOS 10 
 - [ ] iOS 11
 - [ ] iOS 12
-- [ ] iOS 13
-- [ ] iOS 14
-- [ ] iOS 15
 
-my plain is to make a working verson of SpinSettings for ios 11.0 to 12.0
+
+my plain is to make a working verson of SpinSettings 2 for ios 11.0 to 12.5.5 for ios 13 or above see SpinSettings 3
 
 why am i putting is on github:
 
@@ -43,32 +41,6 @@ My own road map
 - [ ] Step 6 = Relise to the public
 - [ ] Step 7 = Update when needed 
 
-# Not Supported Devices Yet above iOS 10
-| Device         | Staus   | Device        | Staus |      Device       | Staus   | 
-|---------|----------|---------|----------|---------|----------|
-|  iPhone 5S     | Planned | iPad Mini 2 | Planned              | iPod Touch 6 | Planned |
-|  iPhone 6      | Planned | iPad Mini 3 | Planned              |      -       | Planned |
-|  iPhone 6+     | Planned | iPad Mini 4 | Planned |- | - |- | - |
-|  iPhone SE     | Planned | iPad Mini 5 | Planned |- | - |- | - |
-|  iPhone 6S     | Planned | iPad Air    | Planned |- | - |- | - |
-|  iPhone 6S+    | Planned |iPad Air 2   | Planned |- | - |- | - |
-|  iPhone 7      | Planned |iPad Air 3   | Planned |- | - |- | - |
-|  iPhone 7+     | Planned |iPad Pro 9.7-inch  (1st Gen)| Planned |- | - |- | - |
-|  iPhone 8      | Planned |iPad Pro 12.9-inch (1st Gen)| Planned |- | - |- | - |
-|  iPhone 8+     | Planned |iPad 2017          (5th Gen)| Planned |- | - |- | - |
-|  iPhone X      | Planned |iPad Pro 10.5-inch (2nd Gen)| Planned |- | - |- | - |
-|  iPhone XS     | Planned |iPad Pro 12.9-inch (2nd Gen)| Planned |- | - |- | - |
-|  iPhone XS Max | Planned |iPad 2018          (6th Gen)| Planned |- | - |- | - |
-|  iPhone XR     | Planned |iPad Pro 11-inch   (3rd Gen) | - |- | - |- | - |
-|  iPhone 11     | Planned |iPad Pro 12.9-inch (3rd Gen)| - |- | - |- | - |
-|  iPhone 11 Pro | Planned |- | - |- | - |- | - |
-|  iPhone 11 Pro Max | Planned |- | - |- | - |- | - |
-|  iPhone SE (2020) | Planned |- | - |- | - |- | - |
-|  iPhone 12     | Planned |- | - |- | - |- | - |
-|  iPhone 12 Mini | Planned |- | - |- | - |- | - |
-|  iPhone 12 Pro | Planned |- | - |- | - |- | - |
-|  iPhone 12 Pro Max | Planned |- | - |- | - |- | - |
-|  iPhone SE (2020) | Planned |- | - |- | - |- | - |
 
 Notes: 
 
@@ -145,7 +117,6 @@ Notes:
 
 |iOS       |5S        |iPad Air  |iPad Mini 2|
 |----------|----------|----------|----------|
-
 |iOS 7.0.2 |Untested  |-         |-|
 |iOS 7.0.3 |Untested  |Untested  |Untested|
 |iOS 7.0.4 |Untested  |Untested  |Untested|
@@ -154,11 +125,6 @@ Notes:
 |iOS 7.1   |Untested  |Untested  |Untested|
 |iOS 7.1.1 |Untested  |Untested  |Untested|
 |iOS 7.1.2 |Untested  |Untested  |Untested|
-
-|5S        |iPad Air  |iPad Mini 2|
-
-
-
 
 # Supported Devices iOS 8.0 to iOS 8.3
 |iOS       |5S        |6         |6+        |iPod Touch 6|iPad Air|iPad Air 2|iPad Mini 2|iPad Mini 3|
