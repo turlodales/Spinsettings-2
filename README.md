@@ -8,8 +8,8 @@ Hello and Welcome This is my own attempted to get it reworking but for 64bit Dev
 | Decsription | ios version |Link|
 |---------|---------|---------|
 | SpinSettings (32/64bit)forked form the origanal verson || https://github.com/turlodales/SpinSettings |
-| SpinSettings-3 (iOS) || https://github.com/turlodales/SpinSettings-3 |
-| SpinSettings-2 (iPadOS) || https://github.com/turlodales/SpinSettings-2-iPadSO |
+| SpinSettings-3 (iOS) |13.0 to 16.x.x| https://github.com/turlodales/SpinSettings-3 |
+| SpinSettings-2 (iPadOS) |13.0 to 16.x.x| https://github.com/turlodales/SpinSettings-2-iPadSO |
 | SpinSettings-2 (TVOS) ||https://github.com/turlodales/SpinSettings-2-TVOS|
 
 
